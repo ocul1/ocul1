@@ -1,6 +1,6 @@
 ### Hi, I'm Adam
 
-Computer engineering student at CSUSB (expected May 2028), focused on systems programming and hardware architecture. I like understanding what's happening below the abstraction most people stop at.
+Computer engineering student at CSUSB, focused on systems programming and hardware architecture. I like understanding what's happening below the abstraction most people stop at.
 
 Currently working through *Computer Systems: A Programmer's Perspective*, studying x86-64 architecture and machine-level program representation.
 
