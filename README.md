@@ -23,5 +23,3 @@ Currently working through *Computer Systems: A Programmer's Perspective*, studyi
 #### Find me
 
 [Site](https://ocul1.github.io) · [GitHub](https://github.com/ocul1)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocul1&show_icons=true&theme=default)
